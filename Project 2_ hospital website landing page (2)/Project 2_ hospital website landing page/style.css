@@ -98,16 +98,63 @@ a{
     background-color: transparent;
 }
 .box{
-    height: 600px;
+    height: 580px;
     width: 21vw;
     background-color: white;
-    margin: 20% 5vw;
+    margin: 25% 5vw;
     border-radius: 10px;
 }
 #appointment{
     font-size: 1.5vw;
     font-weight: 700;
     padding: 40px 3.7vw;
+}
+.bio{
+    margin-left: 8.5vh;
+    padding-top: 8px;
+    color: rgb(55, 54, 54);
+    font-size: 0.9vw;
+    font-weight: 600;
+}
+input{
+    padding: 15px 1.8vw;
+    margin-left: 4vw;
+    box-shadow: rgba(195, 195, 197, 0.25) 0px 30px 60px -12px inset, rgba(162, 158, 158, 0.3) 0px 18px 36px -18px inset;
+    border: 1px solid rgb(172, 170, 170);
+    border-radius: 4px;
+    margin-top: 10px;
+}
+.select{
+    height: 45px;
+    width: 14vw;
+    border: 1px solid rgb(172, 170, 170);
+    margin-top: 10px;
+    margin-left: 4vw;
+    border-radius: 4px;
+    box-shadow: rgba(195, 195, 197, 0.25) 0px 30px 60px -12px inset, rgba(162, 158, 158, 0.3) 0px 18px 36px -18px inset;
+    display: flex;
+
+}
+.please{
+    margin: 13px 2vw;
+    color: rgb(112, 107, 107);
+    font-size: 1vw;
+}
+#arrow1{
+    color: rgb(88, 88, 91);
+    margin: 16px 1vw;
+    font-size: 1vw;
+}
+.booking{
+    margin-top: 40px;
+    margin-left: 62px;
+    padding: 15px 40px;
+    background-color: rgb(65, 144, 218);
+    border: none;
+    color: white;
+    font-size: 1vw;
+    font-weight: 700;
+    border-radius: 7px;
 }
 
     
